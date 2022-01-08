@@ -1,8 +1,13 @@
+<div>
+ 
+  ##
+ 
+</div> 
 
 <div align="center">
   <a href="https://github.com/Kubo-web">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kubo-web&theme=dark&show_icons=true"/>>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubo-web&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kubo-web&theme=dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubo-web&layout=compact&langs_count=7&theme=dark&show"/>
     
 </div>
 <div style="display: inline_block"><br>
@@ -14,11 +19,12 @@
   <img align="right" alt="Juan-pic" height="150" style="border-radius:50px;" src="">
 </div>
   
-  #
+  ##
  
 <div> 
 
-<!---
+
+<!--
 Kubo-web/Kubo-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
